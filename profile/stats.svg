@@ -1,15 +1,15 @@
 
       <svg
         width="467"
-        height="170"
-        viewBox="0 0 467 170"
+        height="195"
+        viewBox="0 0 467 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Asvin Goel's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 960, Total Commits  : 18348, Total PRs: 28, Total Issues: 80</desc>
+        <desc id="descId">Total Stars Earned: 960, Total Commits  : 18349, Total PRs: 28, Total Issues: 80, Total Discussions Answered: 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.5974888209621;
+        stroke-dashoffset: 62.59748873397298;
       }
     }
   
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 35)">
+          transform="translate(390.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -208,6 +208,21 @@
         y="12.5"
         data-testid="issues"
       >80</text>
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z" />
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Discussions Answered:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="discussions_answered"
+      >9</text>
     </g>
   </g>
     </svg>
