@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Asvin Goel's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 977, Total Commits  : 18934, Total PRs: 31, Total Issues: 82, Total Discussions Answered: 9</desc>
+        <desc id="descId">Total Stars Earned: 977, Total Commits  : 18944, Total PRs: 31, Total Issues: 82, Total Discussions Answered: 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.66973453109285;
+        stroke-dashoffset: 60.7157039951413;
       }
     }
   
